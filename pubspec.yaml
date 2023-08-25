@@ -1,6 +1,6 @@
-# TODO: change this name
+# TODO: change here
 name: flutter_template
-description: Manage all of your ledgers at once.
+description: flutter template with some useful packages.
 publish_to: 'none'
 
 version: 1.0.0+1
